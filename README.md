@@ -18,8 +18,8 @@ as a Fedora 44 desktop. You'll have to fiddle with the aplay -l detection sectio
 if not using some sort of USB audio.
 
 Disclaimer: This thing is 99% Claude 5 generated, with a lot of interactive nitpicking by me. I'm currently
-using the Vibraphone from the Alexi\_GM.sf2 soundfont available at:
-https://archive.org/download/541-soundfonts-full-gm-sets/541-soundfonts-full-gm-sets/541\_Soundfonts\_Full\_GM\_Sets/
+using the Vibraphone from the Alexi_GM.sf2 soundfont available at:
+https://archive.org/download/541-soundfonts-full-gm-sets/541-soundfonts-full-gm-sets/541_Soundfonts_Full_GM_Sets/
 although I'd like to find a soundfont that accurately reproduces the tones of very large (and expensive)
 tubular windchimes.
 
